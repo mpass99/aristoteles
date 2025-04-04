@@ -13402,7 +13402,7 @@ return {
                 },
                 [54] = {
                     codec = {
-                        length = 52,
+                        length = 104,
                         name = "IBINrCellInfoT",
                     },
                     type_desc = "nr_scell_info_t54"
@@ -13437,7 +13437,7 @@ return {
                 },
                 [59] = {
                     codec = {
-                        length = 60,
+                        length = 120,
                         name = "IBINrCellInfoT_V2",
                     },
                     type_desc = "nr_scell_info_v2_t59"
@@ -14660,7 +14660,7 @@ return {
                 },
                 [46] = {
                     codec = {
-                        length = 52,
+                        length = 104,
                         name = "IBINrCellInfoT",
                     },
                     type_desc = "nr_scell_info_t46"
@@ -14695,7 +14695,7 @@ return {
                 },
                 [51] = {
                     codec = {
-                        length = 60,
+                        length = 120,
                         name = "IBINrCellInfoT_V2",
                     },
                     type_desc = "nr_scell_info_v2_t51"
